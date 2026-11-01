@@ -2,6 +2,7 @@
 # AdMob account: Harix DevCo / hashtagHK / Downloadia App apps
 google.com, pub-2457434562451796, DIRECT, f08c47fec0942fa0
 # Meta Audience Network
+facebook.com, 694202789336923, DIRECT, c3e20eee3f780d68
 facebook.com, 377489171846296, RESELLER, c3e20eee3f780d68
 facebook.com, 1734961383670081, RESELLER, c3e20eee3f780d68
 
